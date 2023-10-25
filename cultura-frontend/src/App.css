@@ -1,0 +1,28 @@
+.app-wrapper {
+  background-color: white;
+}
+
+.navbar-wrapper {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cultura_logo {
+  margin-left: 5vw;
+  max-height: 120px;
+  height: 14vh;
+
+}
+
+.login {
+  background-color: green;
+  color: white; 
+  border: none;
+  width: 5vw;
+  height: 5vh;
+  font-size: 25.5vw;
+  border-radius: 5px;
+  margin-right: 5vw;
+}
